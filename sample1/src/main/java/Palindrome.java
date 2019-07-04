@@ -15,7 +15,8 @@ public static void main(String args[])
 		   System.out.println("palindrome number ");    
 		  else    
 		   System.out.println("not palindrome");    
-  System.out.println("changes done");		
+  System.out.println("changes  done here");	
+  System.out.println("changes made again");
 }  
 
 		}  
